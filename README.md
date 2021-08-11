@@ -3,6 +3,7 @@ Pythonによるマージソートの並列分散処理
 
 ## プログラムの内容
 mergesort.py:逐次マージソート
+
 parallel_mergesort.py:並列マージソート
 
 プログラム内にあるelement_num変数を変更することで、ソートする配列の要素数が変化する。
